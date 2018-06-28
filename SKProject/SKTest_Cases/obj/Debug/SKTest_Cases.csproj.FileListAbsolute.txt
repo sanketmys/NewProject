@@ -1,0 +1,2 @@
+F:\sanket\NewProject\SKProject\SKTest_Cases\obj\Debug\SKTest_Cases.csprojAssemblyReference.cache
+F:\sanket\NewProject\SKProject\SKTest_Cases\obj\Debug\SKTest_Cases.csproj.CoreCompileInputs.cache

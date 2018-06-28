@@ -1,0 +1,7 @@
+F:\sanket\NewProject\SKProject\SKProject\bin\Debug\SKProject.exe.config
+F:\sanket\NewProject\SKProject\SKProject\bin\Debug\SKProject.exe
+F:\sanket\NewProject\SKProject\SKProject\bin\Debug\SKProject.pdb
+F:\sanket\NewProject\SKProject\SKProject\obj\Debug\SKProject.csprojAssemblyReference.cache
+F:\sanket\NewProject\SKProject\SKProject\obj\Debug\SKProject.csproj.CoreCompileInputs.cache
+F:\sanket\NewProject\SKProject\SKProject\obj\Debug\SKProject.exe
+F:\sanket\NewProject\SKProject\SKProject\obj\Debug\SKProject.pdb
