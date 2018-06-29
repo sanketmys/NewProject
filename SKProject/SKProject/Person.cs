@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace SKProject
 {
-            public class Person
-        {
+    public class Person
+    {
         
-
-        public string UserID { get; set; }
-       public string Name { get; set; }
+         public String UserID { get; set; }
+         public string Name { get; set; }
          public int Age { get; set; }
          public int Rollno { get; set; }
             

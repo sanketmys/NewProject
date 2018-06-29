@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SKProject
 {
-           public static class Person
+    public static class PersonArray
     {
         static void Main()
         {
@@ -56,6 +56,6 @@ namespace SKProject
             }
 
         }
+    }
 
-        }
-        }
+}
